@@ -19,6 +19,3 @@ This SQL project analyzes sales data to provide insights into seasonal sales tre
 **Product Performance:**
 - **Visuals:** Top/Bottom 3 Products by Division and Performance Heatmap.
 - **Insights:** Identified top products to optimize inventory and resources.
-
-**Key Visualizations:**
-Include screenshots of the key visualizations to enhance the description. You can upload the images to your GitHub repository and link them here.
